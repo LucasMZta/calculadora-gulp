@@ -1,0 +1,30 @@
+@import 'base.css';
+
+#n1, #n2 {
+    padding: 10px;
+    font-size: 20px;
+    width: 150px;
+}
+#calcular {
+    padding: 10px;
+    font-size: 23px;
+}
+.resultado {
+    border: 1px dashed #FFF;
+    width: 300px;
+    padding: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto 10px auto;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
